@@ -127,7 +127,6 @@ const getCartAmount = () =>{
         fetchProducts()
     },[])
 
-    // Update Database Cart Items
     useEffect(()=>{
         const updateCart = async ()=>{
             try {
