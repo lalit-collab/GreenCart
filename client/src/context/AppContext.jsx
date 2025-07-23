@@ -65,7 +65,6 @@ const fetchUser = async ()=>{
         }
     }
 
-// Add Product to Cart
 const addToCart = (itemId)=>{
     let cartData = structuredClone(cartItems);
 
