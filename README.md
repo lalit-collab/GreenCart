@@ -1,6 +1,7 @@
 Project Type: E-commerce platform for groceries and other products, connecting sellers and buyers.
 
 Tech Stack:
+
 Client: React (with Vite), JavaScript, React Router DOM, Axios, React Hot Toast, Tailwind CSS.
 Server: Node.js, Express.js, MongoDB, Mongoose, Cookie-parser, Cors, Dotenv, Cloudinary, Multer, Stripe.
 
