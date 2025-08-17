@@ -54,6 +54,3 @@ Implementation Steps:
 
 7. Deployment:
    - INSTRUCTION: Deploy the application to a cloud platform (e.g., Heroku, Netlify, Vercel).
-- Detailed order tracking.
-
-This MVP focuses on the core user journey of browsing products, adding to cart, and placing orders.
